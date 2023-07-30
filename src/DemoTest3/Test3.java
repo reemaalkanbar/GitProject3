@@ -7,4 +7,7 @@ public class Test3 {
 		System.out.println("TESTING GitHub ... ");
 	}
 
+	public static void add (int a , int b){
+		System.out.println(a+b);
+
 }
